@@ -1,0 +1,9 @@
+{
+    "short_name": "CloudVault",
+    "name": "CloudVault - Premium Cloud Storage",
+    "icons": [],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#6366f1",
+    "background_color": "#ffffff"
+}
